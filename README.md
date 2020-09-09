@@ -2,7 +2,7 @@
 A paypal balance adder for PayPal users.
 ### Use this tool for educational purposes only....
 ### Installation.
-git clone https://github.com/Nobelkafdav/PayPal-Hacker
+git clone https://github.com/fr13nds-group/PayPal-Hacker
 
 cd PayPal-Hacker
 
